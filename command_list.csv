@@ -1,0 +1,114 @@
+    1  git config --global user.name Vitalii
+    2  git config --global user.email vitaliimishkov@gmail.com
+    3  cd
+    4  cd desktop/HW_10
+    5  cd onedrive/desktop/HW_10
+    6  create text_ignore.txt
+    7  touch text_ignore.txt
+    8  git add text_ignore.txt
+    9  git clone github.com/VitaliiMishkov/HW_10/tree/main
+   10  git clone https://github.com/VitaliiMishkov/HW_10/tree/main
+   11  git clone https://github.com/VitaliiMishkov/HW_10/tree/main
+   12  git clone https://github.com/VitaliiMishkov/HW_10
+   13  git status
+   14  .git status
+   15  git commit -m Add text_ignore.txt to .gitignore
+   16  cd
+   17  cd onedrive/desktop/HW_10/HW_10
+   18  git status
+   19  git commit -m Add text_ignore.txt to .gitignore
+   20  git commit -m Add text_ignore.txt to .gitignore
+   21  git commit -m Add text_ignore.txt to .gitignore
+   22  git checkout -b develop
+   23  touch develop_test.txt
+   24  git add .
+   25  git commit -m Add develop_test.txt
+   26  git status
+   27  git add .
+   28  git commit -m Update develop_test.txt
+   29  git checkout main
+   30  git merge develop
+   31  git log
+   32  history > command_list.csv
+   33  git add .
+   34  git commit -m Add command history
+   35  git push
+   36  git push
+   37  cd onedrive/desktop/HW_10
+   38  git push
+   39  cd onedrive/desktop/HW_10
+   40  cd Onedrive/desktop/HW_10
+   41  git push
+   42  git commit -m Add text_ignore.txt to .gitignore
+   43  -c && rm ~/.bash_history
+   44  git config --global user.name "Vitalii"
+   45  git config --global user.email "vitaliimishkov@gmail.com"
+   46  git config --global user.email vitaliimishkov@gmail.com
+   47  git config --global user.name Vitalii
+   48  git clone https://github.com/VitaliiMishkov/HW_10
+   49  cd Onedrive/desktop/HW_10
+   50  git clone https://github.com/VitaliiMishkov/HW_10
+   51  touch text_ignore.txt
+   52  git status
+   53  git add .
+   54  git commit -m Added text_ignore.txt to .gitignore
+   55  touch main_test.txt
+   56  git add
+   57  cd Onedrive/desktop/HW_10/HW_10
+   58  git add.
+   59  git add
+   60  git commit -m Created empty file main_test.txt
+   61  git checkout -b develop
+   62  touch develop_test.txt
+   63  git add .
+   64  git commit -m Created empty file develop_test.txt
+   65  echo This is file changes develop_test.txt >> develop_test.txt
+   66  git status
+   67  git add
+   68  git commit -m Changes in file develop_test.txt
+   69  git checkout main
+   70  git merge develop
+   71  git log --oneline --graph
+   72  history > command_list.csv
+   73  history 0 > command_list.csv
+   74  git add.
+   75  git add
+   76  git commit -m Added file command_list.csv with command history
+   77  git push origin main
+   78  git push origin master
+   79  git push
+   80  cd onedrive/desktop/HW_10
+   81  git push origin main
+   82  cd onedrive/desktop/HW_10/HW_10
+   83  cd onedrive/desktop/HW_10/HW_10
+   84  cd onedrive/desktop
+   85  cd onedrive/desktop
+   86  cd OneDrive/Desktop
+   87  cd /Onedrive/Desktop
+   88  cd Onedrive/desktop/
+   89  cd Onedrive/desktop
+   90  cd ~/Onedrive/desktop
+   91  git clone https://github.com/VitaliiMishkov/HW_10
+   92  cd ~/Onedrive/desktop/HW_10
+   93  touch text_ignore.txt
+   94  echo "text_ignore.txt" >> .gitignore
+   95  git status
+   96  git add .
+   97  git commit -m "Додано text_ignore.txt до .gitignore"
+   98  touch main_test.txt
+   99  git add .
+  100  git commit -m "Створено порожній файл main_test.txt"
+  101  git checkout -b develop
+  102  touch develop_test.txt
+  103  git add .
+  104  git commit -m "Створено порожній файл develop_test.txt"
+  105  echo "Це зміни у файлі develop_test.txt" >> develop_test.txt
+  106  git status
+  107  git add .
+  108  git commit -m "Внесено зміни у файл develop_test.txt"
+  109  git checkout main
+  110  git checkout master
+  111  git checkout main
+  112  git merge develop
+  113  git log --oneline --graph
+  114  history > command_list.csv
